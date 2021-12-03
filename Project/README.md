@@ -1,4 +1,4 @@
-# Intermediate Report could be find here could be find here
+# Intermediate Report could be find here
 ## https://docs.google.com/document/d/1u4iBhP3JNajaTbTHPQuOj6nZ1GCrqOiH5yGzxU3hWkk/edit?usp=sharing
 
 # Genetic Approach for Optimizing Ensembles of Classifiers
