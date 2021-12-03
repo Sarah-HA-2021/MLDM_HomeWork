@@ -7,8 +7,8 @@ As we have seen during our course, ensemble learning is a machine learning techn
 
 ## Problem  this paper is solving 
 It is common in the research on this topic to select by hand :
-a)the right combination of classifiers 
-b) the method to combine them 
+* the right combination of classifiers 
+* the method to combine them 
 or exhaustive search is used when (the number of classifiers and algorithms to use is small)
 
 ## Method this paper is proposing
