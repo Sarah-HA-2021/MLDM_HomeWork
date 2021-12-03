@@ -1,4 +1,4 @@
-# Genetic Algorithms 
+## Genetic Algorithms 
 ## Definition 
 A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution.
 
