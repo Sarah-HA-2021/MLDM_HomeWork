@@ -16,4 +16,4 @@ or exhaustive search is used when (the number of classifiers and algorithms to u
 ## Method this paper is proposing
 genetic algorithms for selecting the classifiers and the combination methods
 
-![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/general_paper_method.PNG) ![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/detialed_paper_method.PNG)
+![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/detialed_paper_method.PNG) ![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/general_paper_method.PNG) 
