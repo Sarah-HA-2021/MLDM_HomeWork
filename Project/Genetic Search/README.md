@@ -12,3 +12,5 @@ Five phases are considered in a genetic algorithm.
 5. Mutation
 
 The report contains more detials about each one of the phases.
+
+![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/genetic_algorithm.png)
