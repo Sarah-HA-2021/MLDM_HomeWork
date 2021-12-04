@@ -4,5 +4,5 @@ For this task we picked glass dataset and here are the results
 
 | Method | Our results | Paper's results |
 | --- | --- | --- |
-| `git status` | List all *new or modified* files | | List all *new or modified* files |
+| `IBK` |  70.56 % | | 69.13 % |
 | `git diff` | Show file differences that **haven't been** staged | | List all *new or modified* files |
