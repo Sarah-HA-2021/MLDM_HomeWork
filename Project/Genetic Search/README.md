@@ -1,6 +1,6 @@
 ## Genetic Algorithms 
 ## Genetic Algorithm Parameters
-Here are the used parameters
+Here are the used parameters in the paper 
 ![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/GA_parameters.jpg)
 
 ## Definition 
