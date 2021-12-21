@@ -1,4 +1,8 @@
 ## Genetic Algorithms 
+## Genetic Algorithm Parameters
+Here are the used parameters
+![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/GA_parameters.jpg)
+
 ## Definition 
 A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution.
 
