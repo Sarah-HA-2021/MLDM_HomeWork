@@ -1,6 +1,6 @@
 ## Genetic Algorithms 
 ## Encoding method 
-![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/encoding_method.jpg_
+![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/encoding_method.jpg)
 
 ## Genetic Algorithm Parameters
 Here are the used parameters in the paper 
