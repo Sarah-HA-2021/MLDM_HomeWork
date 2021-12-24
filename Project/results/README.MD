@@ -10,5 +10,5 @@ Here are paper's method
 
 
 ## Our Ensemble results 
-Here are paper's method
+Here are our ensemble results 
 ![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/ensemble_results.jpg)
