@@ -1,5 +1,5 @@
 
-##  Empirical results
+##  Empirical results for base classifiers 
 ## our results
 Here is the our results on base classifiers 
 ![img](https://github.com/Sarah-HA-2021/MLDM_HomeWork/blob/main/Project/images/empirical_results.jpg)
