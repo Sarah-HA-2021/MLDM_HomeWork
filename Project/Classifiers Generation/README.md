@@ -1,5 +1,5 @@
 # Steps 
-## First we generated & tested the classifiers on one dataset to compare paper's results with ours
+## First we generated & tested the classifiers on one dataset to compare paper's results with ours , the code for that can be found above 
 For this task we picked glass dataset and here are the results 
 
 | Method | Our results| Paper's results|
